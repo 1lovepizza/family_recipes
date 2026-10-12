@@ -2,4 +2,6 @@
 
 Set of recipes given by grandma.
 
-pizas todo
+*pizzas
+
+ - [base](./pizzas/base.md)
